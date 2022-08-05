@@ -16,7 +16,7 @@ spec:
         api: external        
     spec:
       containers:
-      - image: tiepnvbn/udagram-frontend:v1
+      - image: tiepnvbn/udagram-frontend:v8
         name: frontend
         imagePullPolicy: Always          
         ports:
